@@ -15,7 +15,7 @@ This is a simple REST API practice project built using Node.js and Express.
 
 ## Run Locally
 1. npm install
-2. create a .env file and add your API token
+2. create a .env file and add your API token by using this url("https://secrets-api.appbrewery.com")
 3. node index.js
 4. open http://localhost:3000
 
