@@ -1,6 +1,7 @@
 # xRESTAPIs
 
 This is a simple REST API practice project built using Node.js and Express.
+To Understand Crud Opertaions.
 
 ## Features
 - Perform GET, POST, PUT, PATCH, DELETE requests
