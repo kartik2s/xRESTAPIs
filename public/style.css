@@ -176,3 +176,8 @@ input[type="submit"]:hover {
 #delete {
     background: linear-gradient(135deg, #e74c3c, #c0392b);
 }
+
+footer{
+    color: white;
+    text-align: center;
+}
