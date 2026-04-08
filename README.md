@@ -13,6 +13,7 @@ To Understand Crud Opertaions.
 - Express.js
 - EJS
 - Axios
+- Bearer Authentication is used 
 
 ## Run Locally
 1. npm install
