@@ -13,7 +13,7 @@ To Understand Crud Opertaions.
 - Express.js
 - EJS
 - Axios
-- Bearer Authentication is used 
+- Bearer Authentication is used by this url ("https://secrets-api.appbrewery.com")
 
 ## Run Locally
 1. npm install
@@ -22,4 +22,4 @@ To Understand Crud Opertaions.
 4. open http://localhost:3000
 
 ## Learning
-Built this project to understand how APIs work and how backend connects with frontend.
+Built this project to understand how internal/external APIs work and how backend connects with frontend.
