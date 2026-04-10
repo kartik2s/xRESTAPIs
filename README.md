@@ -13,11 +13,11 @@ To Understand Crud Opertaions.
 - Express.js
 - EJS
 - Axios
-- Bearer Authentication is used by this url ("https://secrets-api.appbrewery.com")
+- Bearer Authentication 
 
 ## Run Locally
 1. npm install
-2. create a .env file and add your API token by using this url("https://secrets-api.appbrewery.com")
+2. create a .env file and add your API Bearer token by generate using this url("https://secrets-api.appbrewery.com")
 3. node index.js
 4. open http://localhost:3000
 
