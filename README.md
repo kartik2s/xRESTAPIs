@@ -1,7 +1,7 @@
 # xRESTAPIs
 
 This is a simple REST API practice project built using Node.js and Express.
-To Understand Crud Opertaions.
+To Understand Crud Opertaions and APIs work
 
 ## Features
 - Perform GET, POST, PUT, PATCH, DELETE requests
@@ -20,6 +20,3 @@ To Understand Crud Opertaions.
 2. create a .env file and add your API Bearer token by generate using this url("https://secrets-api.appbrewery.com")
 3. node index.js
 4. open http://localhost:3000
-
-## Learning
-Built this project to understand how internal/external APIs work and how backend connects with frontend.
