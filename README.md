@@ -1,7 +1,7 @@
 # xRESTAPIs
 
 This is a simple REST API practice project built using Node.js and Express.
-To Understand Crud Opertaions and APIs work
+To Understand Crud Opertaions and How the APIs work
 
 ## Features
 - Perform GET, POST, PUT, PATCH, DELETE requests
@@ -13,10 +13,10 @@ To Understand Crud Opertaions and APIs work
 - Express.js
 - EJS
 - Axios
-- Bearer Authentication for fetching the data from External APIs
+- Bearer Authentication for fetching the data from an External APIs
 
 ## Run Locally
 1. npm install
-2. create a .env file and add your API Bearer token by generate using this url("https://secrets-api.appbrewery.com")
+2. create a .env file and add your API Bearer token by generate using this documentation url("https://secrets-api.appbrewery.com")
 3. node index.js
 4. open http://localhost:3000
