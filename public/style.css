@@ -92,9 +92,10 @@ label {
 
 input[type="text"],
 input[type="number"] {
+    /* width: 580px; */
     background: #ffffff;
     border: 1.5px solid #ddd;
-    padding: 12px;
+    padding: 12px 220px;
     border-radius: 10px;
     margin-bottom: 12px;
     font-size: 14px;
